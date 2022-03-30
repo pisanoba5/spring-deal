@@ -20,7 +20,5 @@
 * 채팅페이지(1:1 실시간 채팅) 
     <img src="https://user-images.githubusercontent.com/39799061/111898833-b9e72880-8a6b-11eb-8ec1-5330ef515e4c.jpg"/> 
     
-## 사이트연결
- * 파란마켓 : http://ssh0922.cafe24.com/index
 
       
